@@ -20,7 +20,7 @@ void test_verificarPar()
 int main()
 {
     test_calcularFatorial();
-    test_verificarPar(); // não esqueça de chamar o novo teste aqui!
+    test_verificarPar();
     std::cout << "Todos os testes passaram com sucesso!" << std::endl;
     return 0;
 }
