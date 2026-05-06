@@ -3,4 +3,6 @@
 
 int calcularFatorial(int n);
 
+bool verificarPar(int n);
+
 #endif

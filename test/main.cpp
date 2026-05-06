@@ -10,9 +10,17 @@ void test_calcularFatorial()
     std::cout << "[OK] Testes de calcularFatorial passaram!" << std::endl;
 }
 
+void test_verificarPar()
+{
+    assert(verificarPar(2) == true);
+    assert(verificarPar(3) == false);
+    std::cout << "[OK] Testes de verificarPar passaram!" << std::endl;
+}
+
 int main()
 {
     test_calcularFatorial();
+    test_verificarPar(); // não esqueça de chamar o novo teste aqui!
     std::cout << "Todos os testes passaram com sucesso!" << std::endl;
     return 0;
 }
