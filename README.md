@@ -1,6 +1,8 @@
+# Arthur Mendes Torres
+
 # Projeto C++ - Práticas de Gitflow e TDD
 
-Este repositório foi criado para aplicar os conceitos de versionamento de código ensinados nos tutoriais do TerraLAB, utilizando metodologias ágeis.
+Este repositório foi criado para aplicar os conceitos de versionamento de código ensinados nos tutoriais e para utilização na disciplina de Engenharia de Software 1, utilizando metodologias ágeis.
 
 ## Estrutura do Projeto
 
