@@ -1,0 +1,12 @@
+# Ignorar executáveis e arquivos objeto
+bin/*
+!bin/.keep
+*.o
+*.exe
+*.a
+*.so
+*.dll
+
+# Ignorar pastas geradas por IDEs e SO
+.vscode/
+.DS_Store
